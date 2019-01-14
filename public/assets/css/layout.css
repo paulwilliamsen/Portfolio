@@ -14,15 +14,16 @@ background-image: url("images/overlay.png");
 
 #main > section.dark {
 color: #ddd;
-color: rgba(255, 255, 255, 0.75);
+color: white;
+/* background: #222629; */
 }
 
 #main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
-  color: inherit;
+  color: white;
 }
 
 #main > section.dark strong {
-  color: #fff;
+  color: yellow;
   border-color: inherit;
 }
 
@@ -41,11 +42,7 @@ background-size: cover;
 background-position: center center;
 }
 
-#main > section.one {
-background-color: #81918E;
-background-image: url("../../images/banner.jpg");
 
-}
 
 
 #main > section.two {
@@ -110,7 +107,7 @@ text-align: center;
 }
 
 #header .icons a {
-color: #41484c;
+color: #548fb1;
 -moz-transition: color 0.35s ease-in-out;
 -webkit-transition: color 0.35s ease-in-out;
 -ms-transition: color 0.35s ease-in-out;
@@ -132,6 +129,7 @@ cursor: default;
 position: relative;
 color: #fff;
 font-weight: 600;
+font-family: 'Happy Monkey', cursive;
 font-size: 1em;
 line-height: 1em;
 }
@@ -140,6 +138,7 @@ line-height: 1em;
 position: relative;
 display: block;
 font-size: 0.6em;
+font-family: 'Happy Monkey', cursive;
 color: rgba(255, 255, 255, 0.5);
 line-height: 1.25em;
 margin: 0.5em 0 0 0;
@@ -183,7 +182,7 @@ font-size: 0.8em;
 #nav ul li a span:before {
   position: absolute;
   left: 0;
-  color: #41484c;
+  color: #548fb1;
   text-align: center;
   width: 1.25em;
   line-height: 1.75em;
@@ -232,6 +231,7 @@ margin-left: 0;
 
 .container {
 margin: 0 auto;
+z-index: 1;
 max-width: 100%;
 width: 1400px;
 }
@@ -1759,6 +1759,7 @@ font-weight: 300;
 }
 
 .container {
+  z-index: 1;
 padding: 0 15px 0 15px;
 }
 
