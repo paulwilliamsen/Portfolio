@@ -9,31 +9,31 @@
 
 ## Feature Time Table 
 
-Number and name of feature: Refactor Css into Smacss 
+Number and name of feature: Feature 1: Refactor Css into Smacss 
 
 Estimate of time needed to complete: 1 Hour
 
 Start time: 9:30 am
 
-Finish time: 
+Finish time: 11:30 am
 
-Actual time needed to complete: 
+Actual time needed to complete: 2 Hours
 
 ### 2
 
-Number and name of feature: 
+Number and name of feature: Feature 2: Add own flare to page
 
 Estimate of time needed to complete: 
 
-Start time: 
+Start time: 3 hours
 
-Finish time: 
+Finish time: Unfinished so far
 
 Actual time needed to complete:
 
 ### 2
 
-Number and name of feature: 
+Number and name of feature: Feature 3: Remove all text not in CDN
 
 Estimate of time needed to complete: 
 
